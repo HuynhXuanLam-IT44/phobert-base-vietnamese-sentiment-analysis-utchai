@@ -1,7 +1,7 @@
-0	Enjoyment
-1	Fear
-2	Hope
-3	Others
-4	Sadness
-5	Surprise
-6	Trust
+0	enjoyment
+1	fear
+2	hope
+3	others
+4	sadness
+5	surprise
+6	trust
